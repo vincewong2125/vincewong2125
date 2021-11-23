@@ -6,8 +6,6 @@ My name is Vince Wong and I am a data scientist. I am living in New York City an
 ![IMG_1401](https://user-images.githubusercontent.com/85967454/143083051-977c4e57-aa97-40a2-8d88-16312c4f1b6e.JPG)
 
 
-
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -20,7 +18,8 @@ My name is Vince Wong and I am a data scientist. I am living in New York City an
 
 
 ## &#x270d; Contact Me
-You can also connect with me on Linkedin at: https://www.linkedin.com/in/vlw/.
+You can connect with me on Linkedin at: https://www.linkedin.com/in/vlw/.
+Or at my email: vlw2125@columbia.edu
 
 ## 🤙 My Favorite Personal Project
 
