@@ -15,3 +15,5 @@ My name is Vince Wong and I am a data scientist. I am living in New York City an
 
 ## &#x270d; Contact Me
 You can also connect with me on Linkedin at: https://www.linkedin.com/in/vlw/.
+
+## 	U+1F919
