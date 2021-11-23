@@ -2,6 +2,12 @@
 
 My name is Vince Wong and I am a data scientist. I am living in New York City and currently a MA Quantitative Methods in the Social Sciences Student at Columbia University. I will be a Software Engineer II at Juniper Networks in August 2022. 
 
+
+![IMG_1401](https://user-images.githubusercontent.com/85967454/143083051-977c4e57-aa97-40a2-8d88-16312c4f1b6e.JPG)
+
+
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
