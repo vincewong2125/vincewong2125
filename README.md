@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Vince Wong and I am a data scientist. I am living in New York City and currently a MA Quantitative Methods in the Social Sciences Student at Columbia University. I will be a Software Engineer II at Juniper Networks in August 2022. 
+My name is Vince Wong and I am a data scientist. I am living in New York City and currently a MA Quantitative Methods in the Social Sciences student at Columbia University. I will be a Software Engineer II at Juniper Networks in August 2022. 
 
 
 ![IMG_1401](https://user-images.githubusercontent.com/85967454/143083051-977c4e57-aa97-40a2-8d88-16312c4f1b6e.JPG)
