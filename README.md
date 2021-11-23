@@ -26,4 +26,6 @@ Or at my email: vlw2125@columbia.edu
 
 Created multiple classification models and neural networks to predict a user's persona based on their computer’s specification, CPU utilization, and CPU temperature. Achieving 64% accuracy with my best model. https://vlw003.github.io/
 
+## 📄 Check Out my CV
 
+[CV – Wong, Vince 2021.pdf](https://github.com/vincewong2125/vincewong2125/files/7590307/CV.Wong.Vince.2021.pdf)
