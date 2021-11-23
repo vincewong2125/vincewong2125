@@ -28,4 +28,6 @@ Created multiple classification models and neural networks to predict a user's p
 
 ## 📄 Check Out my CV
 
-[CV – Wong, Vince 2021.pdf](https://github.com/vincewong2125/vincewong2125/files/7590307/CV.Wong.Vince.2021.pdf)
+
+<img width="546" alt="Screen Shot 2021-11-23 at 1 33 15 PM" src="https://user-images.githubusercontent.com/85967454/143083571-556f757e-77e5-403f-9ee4-625ae0687289.png"><img width="546" alt="Screen Shot 2021-11-23 at 1 33 20 PM" src="https://user-images.githubusercontent.com/85967454/143083576-cb4bf4d5-bede-4f45-84c1-2187d748a077.png">
+
