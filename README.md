@@ -16,4 +16,8 @@ My name is Vince Wong and I am a data scientist. I am living in New York City an
 ## &#x270d; Contact Me
 You can also connect with me on Linkedin at: https://www.linkedin.com/in/vlw/.
 
-## 	U+1F919
+## 🤙 My Favorite Personal Project
+
+Created multiple classification models and neural networks to predict a user's persona based on their computer’s specification, CPU utilization, and CPU temperature. Achieving 64% accuracy with my best model. https://vlw003.github.io/
+
+
