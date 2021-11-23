@@ -23,8 +23,7 @@ You can connect with me on Linkedin at: https://www.linkedin.com/in/vlw/.
 Or at my email: vlw2125@columbia.edu
 
 ## 🤙 My Favorite Personal Project
-
-Created multiple classification models and neural networks to predict a user's persona based on their computer’s specification, CPU utilization, and CPU temperature. Achieving 64% accuracy with my best model. https://vlw003.github.io/
+Worked with Intel to create multiple classification models and neural networks to predict a user's persona based on their computer’s specification, CPU utilization, and CPU temperature. Achieving 64% accuracy with my best model. https://vlw003.github.io/
 
 ## 📄 Check Out my CV
 
