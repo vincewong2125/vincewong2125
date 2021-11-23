@@ -11,7 +11,7 @@ My name is Vince Wong and I am a data scientist. I am living in New York City an
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
-https://www.linkedin.com/in/vlw/
+## &#x270d; Contact Me
+You can also connect with me on Linkedin at: https://www.linkedin.com/in/vlw/.
