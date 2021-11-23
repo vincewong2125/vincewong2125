@@ -19,6 +19,7 @@ My name is Vince Wong and I am a data scientist. I am living in New York City an
 
 ## &#x270d; Contact Me
 You can connect with me on Linkedin at: https://www.linkedin.com/in/vlw/.
+<br></br>
 Or at my email: vlw2125@columbia.edu
 
 ## 🤙 My Favorite Personal Project
