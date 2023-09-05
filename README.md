@@ -1,7 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Vince Wong and I am a data scientist. I am living in New York City and currently a MA Quantitative Methods in the Social Sciences student at Columbia University. I will be a Software Engineer II at Juniper Networks in August 2022. 
-
+My name is Vince Wong and I am a data scientist based in San Francisco, CA. 
 
 ![IMG_1401](https://user-images.githubusercontent.com/85967454/143083051-977c4e57-aa97-40a2-8d88-16312c4f1b6e.JPG)
 
@@ -25,8 +24,4 @@ Or at my email: vlw2125@columbia.edu
 ## 🤙 My Favorite Personal Project
 Worked with Intel to create multiple classification models and neural networks to predict a user's persona based on their computer’s specification, CPU utilization, and CPU temperature. Achieving 64% accuracy with my best model. https://vlw003.github.io/
 
-## 📄 Check Out my CV
-
-
-<img width="546" alt="Screen Shot 2021-11-23 at 1 33 15 PM" src="https://user-images.githubusercontent.com/85967454/143083571-556f757e-77e5-403f-9ee4-625ae0687289.png"><img width="546" alt="Screen Shot 2021-11-23 at 1 33 20 PM" src="https://user-images.githubusercontent.com/85967454/143083576-cb4bf4d5-bede-4f45-84c1-2187d748a077.png">
 
